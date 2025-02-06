@@ -11,12 +11,22 @@
 
 My journey with data began in college, where I was studying **databases and advanced database technologies**. I became deeply interested in how data flows through systems, how it can be structured and optimized for efficiency, and its transformative impact on decision-making. I was constantly engaging myself to **emerging trends, data patterns, and latest technologies**. I also experimented through **small projects**, refining my skills and discovering innovative ways to extract value from data. For me, data is more than just numbers—it’s a powerful asset that, when harnessed effectively, can **drive business innovation, predict trends, and unlock hidden opportunities**.
 
-🎓 With a **Bachelor's in Computer Science** and a **Master’s in Engineering Management**, I’ve dedicated my career to building **data-driven solutions**. Along the way, I have gained **2 years of professional experience** with  **L&T Technology Services**  working on cutting-edge projects in like **Medical data as a service**.
+---
+
+## **🎓 Education**
+
+- Bachelor's in Engineering, Computer Science, July 2017 - May 2021
+  - Relavant Coursework: Object oriented programming, Data Structures & Algorithms, Database Management Systems, Advanced Database Technologies
+
+- *Ontario Tech University, Engineering Management, September 2023 - Decemeber 2024*
+    - Relavant Coursework: Business Analytics, Applied Risk Analytics, Knowledge Discovery & Data Mining, Software Engineering, Software Development Tools & Methods 
 
 ---
 
 ## **🔹 My Professional Journey:**
+I have **2 years of professional experience** with **L&T Technology Services**, contributing to **data driven projects** in the field of **Medical Data as a Service**. My role was focused on developing scalable data solutions to improve healthcare systems' efficiency, integration, and decision-making.
 
+## Key Contributions
 ✅ **ETL & Data Pipelines:** Engineered robust ETL pipelines to ingest and transform healthcare data into **FHIR (Fast Healthcare Interoperable Resources)** using **HAPI-FHIR**.  
 ✅ **Data Automation & Integration:** Automated seamless **data exchange and transformation** using **Mirth Connect**, ensuring smooth interoperability across systems.  
 ✅ **Cloud & DevOps:** Deployed **containerized data ingestion frameworks** using **Docker** and orchestrated **Kubernetes** deployments for scalability.  
