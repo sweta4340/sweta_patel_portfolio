@@ -1,4 +1,4 @@
-# **Sweta Patel - Transforming Data into Actionable Insights | Passionate About Big Data, Cloud Technologies, and AI-driven Solutions**
+# **Sweta Patel - Transforming Data into Actionable Insights | Passionate About Big Data and AI-driven Solutions**
 
 ## **About Me**
 
