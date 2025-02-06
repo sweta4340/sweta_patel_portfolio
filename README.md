@@ -49,8 +49,42 @@ I have **2 years of professional experience** with **L&T Technology Services**, 
 
 ---
 
+## 🚀 Portfolio Projects
+
+My portfolio includes a variety of data science and data analysis projects that demonstrate my ability to draw meaningful insights from data, and make decisions based on facts. I put the files and their details in the sections below.
+
+### 1. Formula 1 data engineering project on Azure
+
+### 2. LoanWise: A system that aids smart lending and borrowing decisions
+**Code**: [LoanWise: A system that aids smart lending and borrowing decisions](https://github.com/sweta4340/ENGR_5520G_G5)
+
+**Description**: A system that aids smart lending decisions based on insightful data. The aim for our project is to build loan amount prediction system powered by machine learning which helps to a borrower to assess his eligibility for a loan amount based on his personal and financial information. This system is also useful for lenders to visualize and analyze various factors influencing loan approval decisions, behavior and the associated risk.
+
+**Key Features**:  
+- **Peer-to-Peer Lending Transparency**: Borrowers receive clear loan estimates and interest rates.  
+- **Automated Decision-Making**: Faster loan approvals for lenders.  
+- **Risk Analysis for Lenders**: Insights into funding profitability and associated risks.
+
+**Skills**: Data cleaning, Data analysis, Feature, Engineering, Data visualization, Machine Learning, PowerBI, Github workflows
+
+**Technology**: Python, Pandas, Numpy, Matplotlib, XGBoost, Random Forest, Decision Trees, Gradient Boosting
+
+**Results**: Achieving an R² score of 98% in determining Interest rate, R² score of 91% for determining loan amount, R² score of 81% in determining Expected Returns and R² score of 83% for determing default probability.
+
+[Data Insights](https://github.com/sweta4340/ENGR_5520G_G5/blob/main/Lender%20Statistics/Data_Insights.ipynb)
+
+### 3. Generalizing speech emotion detection: Multimodal and multidataset approach
+
+### 4. Avoiding Covid 19 with facemask and social distancing detection
+
+### 5. Airbnb data analysis and fare prediction
+
+### 6. NBA match winning prediction
+
+---
+
 ### **🤝 Let’s Connect!**
 
-🚀 I believe **data isn’t just numbers**—it’s the key to **smarter decision-making, optimized processes, and groundbreaking innovations**. I’m always eager to connect with **fellow data enthusiasts, engineers, and industry leaders** to exchange ideas, collaborate, and push the boundaries of **data-driven transformation**.  
+I believe **data isn’t just numbers**—it’s the key to **smarter decision-making, optimized processes, and groundbreaking innovations**. I’m always eager to connect with **fellow data enthusiasts, engineers, and industry leaders** to exchange ideas, collaborate, and push the boundaries of **data-driven transformation**.  
 
 📩 Let’s discuss how I can contribute to your team and **unlock the power of data together!** 
