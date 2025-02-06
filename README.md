@@ -5,7 +5,7 @@
 **📍 Based:** Whitby, ON  
 **🎯 Seeking:** Full-time Opportunities in **Data Engineering | Data Analytics**  
 **📧 Email:** sweta.patel4340@gmail.com  
-**🔗 LinkedIn:** [Sweta Patel LinkedIn](https://www.linkedin.com/in/sweta-patel-95091322a/)  
+**🔗 LinkedIn:** [Sweta Patel](https://www.linkedin.com/in/sweta-patel-95091322a/)  
 
 👋 Hello, I'm Sweta Patel, a passionate **Data Engineer** with a strong background in **analytics, software engineering, and project management**. 
 
