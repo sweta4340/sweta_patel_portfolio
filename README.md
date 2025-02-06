@@ -10,7 +10,8 @@
 ### **About me**
 👋 Hello, I'm Sweta Patel, a passionate **Data Engineer** with a strong background in **analytics, software engineering, and project management**. 
 
-Ever since my college days, I've been fascinated by **databases**—how they store, manage, and transform information into valuable insights. This curiosity sparked my journey into the world of **data**, driving me to explore how it can not only tell stories but shape **business decisions and innovation**.
+Ever since my college days, I've been fascinated by **databases**—how they store, manage, and transform information into valuable insights. This curiosity sparked my journey into the world of **data**, driving me to explore how it can not only tell stories but shape **business decisions and innovation**. As I delved deeper, I became intrigued by the intricate ways data flows through systems, the complexities of structuring and optimizing it for efficiency, and its profound impact on decision-making. I realized that data is more than just numbers—it is a **powerful asset** that, when harnessed effectively, can revolutionize industries, and uncover hidden opportunities. Whether it's improving customer experiences, predicting trends, or enhancing business strategies, I am driven by the challenge of turning raw data into actionable insights that drive meaningful change.
+
 
 🎓 With a **Bachelor's in Computer Science** and a **Master’s in Engineering Management**, I’ve dedicated my career to building **data-driven solutions**. Along the way, I have gained **2 years of hands-on experience** working on cutting-edge projects in **data engineering, cloud computing, and analytics**.
 
