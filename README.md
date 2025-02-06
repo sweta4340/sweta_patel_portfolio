@@ -1,6 +1,6 @@
-# **Sweta Patel - Transforming Data into Actionable Insights | Passionate About Big Data and AI-driven Solutions**
+## **Sweta Patel - Transforming Data into Actionable Insights | Passionate About Big Data and AI-driven Solutions**
 
-## **About Me**
+## ** 💡 About Me**
 
 **📍 Based:** Whitby, ON 
 **🎯 Seeking:** Full-time Opportunities in **Data Engineering | Data Analytics**  
