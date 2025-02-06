@@ -2,20 +2,20 @@
 
 ## **About Me**
 
-**📍 Based:** [Whitby, ON]  
+**📍 Based:** Whitby, ON 
 **🎯 Seeking:** Full-time Opportunities in **Data Engineering | Data Analytics**  
-**📧 Email:** [sweta.patel4340@gmail.com]  
+**📧 Email:** sweta.patel4340@gmail.com
 **🔗 LinkedIn:** [Sweta Patel LinkedIn](https://www.linkedin.com/in/sweta-patel-95091322a/)  
 
-### **About me**
 👋 Hello, I'm Sweta Patel, a passionate **Data Engineer** with a strong background in **analytics, software engineering, and project management**. 
 
-Ever since my college days, I've been fascinated by **databases**—how they store, manage, and transform information into valuable insights. This curiosity sparked my journey into the world of **data**, driving me to explore how it can not only tell stories but shape **business decisions and innovation**. As I delved deeper, I became intrigued by the intricate ways data flows through systems, the complexities of structuring and optimizing it for efficiency, and its profound impact on decision-making. I realized that data is more than just numbers—it is a **powerful asset** that, when harnessed effectively, can revolutionize industries, and uncover hidden opportunities. Whether it's improving customer experiences, predicting trends, or enhancing business strategies, I am driven by the challenge of turning raw data into actionable insights that drive meaningful change.
+My journey with data began in college, where I was studying **databases and advanced database technologies**. I became deeply interested in how data flows through systems, how it can be structured and optimized for efficiency, and its transformative impact on decision-making. I was constantly engaging myself to **emerging trends, data patterns, and latest technologies**. I also experimented through **small projects**, refining my skills and discovering innovative ways to extract value from data. For me, data is more than just numbers—it’s a powerful asset that, when harnessed effectively, can **drive business innovation, predict trends, and unlock hidden opportunities**.
 
+🎓 With a **Bachelor's in Computer Science** and a **Master’s in Engineering Management**, I’ve dedicated my career to building **data-driven solutions**. Along the way, I have gained **2 years of professional experience** with  **L&T Technology Services**  working on cutting-edge projects in like **Medical data as a service**.
 
-🎓 With a **Bachelor's in Computer Science** and a **Master’s in Engineering Management**, I’ve dedicated my career to building **data-driven solutions**. Along the way, I have gained **2 years of hands-on experience** working on cutting-edge projects in **data engineering, cloud computing, and analytics**.
+---
 
-### **🔹 My Professional Journey:**
+## **🔹 My Professional Journey:**
 
 ✅ **ETL & Data Pipelines:** Engineered robust ETL pipelines to ingest and transform healthcare data into **FHIR (Fast Healthcare Interoperable Resources)** using **HAPI-FHIR**.  
 ✅ **Data Automation & Integration:** Automated seamless **data exchange and transformation** using **Mirth Connect**, ensuring smooth interoperability across systems.  
