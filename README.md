@@ -19,7 +19,7 @@ Ever since my college days, I've been fascinated by **databases**—how they sto
 ✅ **ETL & Data Pipelines:** Engineered robust ETL pipelines to ingest and transform healthcare data into **FHIR (Fast Healthcare Interoperable Resources)** using **HAPI-FHIR**.  
 ✅ **Data Automation & Integration:** Automated seamless **data exchange and transformation** using **Mirth Connect**, ensuring smooth interoperability across systems.  
 ✅ **Cloud & DevOps:** Deployed **containerized data ingestion frameworks** using **Docker** and orchestrated **Kubernetes** deployments for scalability.  
-✅ **API Development & Microservices:** Designed **RESTful APIS** with **Swagger UI** and published APIs to a **marketplace via WSO2**, enabling scalable and efficient **healthcare solutions**.  
+✅ **API Development:** Designed **RESTful APIS** with **Swagger UI** and published APIs to a **marketplace via WSO2**, enabling scalable and efficient **healthcare solutions**.  
 ✅ **Data Visualization & Insights:** Developed a **Power BI dashboard** that transformed complex medical data into **actionable insights** for better decision-making.  
 
 ---
