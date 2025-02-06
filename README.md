@@ -1,10 +1,10 @@
 ## **Sweta Patel - Transforming Data into Actionable Insights | Passionate About Big Data and AI-driven Solutions**
 
-## ** 💡 About Me**
+## **💡 About Me**
 
-**📍 Based:** Whitby, ON 
+**📍 Based:** Whitby, ON  
 **🎯 Seeking:** Full-time Opportunities in **Data Engineering | Data Analytics**  
-**📧 Email:** sweta.patel4340@gmail.com
+**📧 Email:** sweta.patel4340@gmail.com  
 **🔗 LinkedIn:** [Sweta Patel LinkedIn](https://www.linkedin.com/in/sweta-patel-95091322a/)  
 
 👋 Hello, I'm Sweta Patel, a passionate **Data Engineer** with a strong background in **analytics, software engineering, and project management**. 
