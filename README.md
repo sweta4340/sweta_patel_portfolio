@@ -54,6 +54,22 @@ I have **2 years of professional experience** with **L&T Technology Services**, 
 My portfolio includes a variety of data science and data analysis projects that demonstrate my ability to draw meaningful insights from data, and make decisions based on facts. I put the files and their details in the sections below.
 
 ### 1. Formula 1 data engineering project on Azure
+**Code**: [Formula 1 Azure Data Engineering](https://github.com/sweta4340/Formula1_Azure_DataEngineering) 
+
+**Description**: A data-driven system for analyzing Formula 1 race data, enabling teams and analysts to make informed decisions. The project focuses on building a data pipeline that ingests, processes, and visualizes race data, offering insights into driver performance, team strategies, and race trends.  
+
+**Key Features**:  
+- **Real-Time Race Data Processing**: Analyzes live race data for immediate insights.  
+- **Performance Benchmarking**: Evaluates drivers and teams based on historical performance.  
+- **Scalable Data Infrastructure**: Leverages Azure Data Factory and Databricks for seamless data processing.  
+
+**Skills**: Data cleaning, Big data analysis, Data visualization, PowerBI, Data Pipelines
+
+**Technology**: Apache Spark, Azure Databricks, Azure Data Factory, Delta lake, Azure Data Lake, PowerBI
+
+**Results**: Achieved optimized data processing for Formula 1 race analytics. Developed predictive models for race performance evaluation with high accuracy. Enabled real-time visualization of driver statistics and team strategies, improving decision-making in race planning and performance assessment.
+
+[Project Architecture](https://github.com/sweta4340/Formula1_Azure_DataEngineering/blob/main/Project_Architecture.png)       [PowerBI Dashboard](https://github.com/sweta4340/Formula1_Azure_DataEngineering/blob/main/Dominant_drivers_teams.pdf)
 
 ### 2. LoanWise: A system that aids smart lending and borrowing decisions
 **Code**: [LoanWise: A system that aids smart lending and borrowing decisions](https://github.com/sweta4340/ENGR_5520G_G5)
