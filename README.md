@@ -108,11 +108,9 @@ My portfolio includes a variety of data science and data analysis projects that 
 
 [Presentation](https://github.com/sweta4340/Speech_Emotion_Detection/blob/main/group15_SWE_PRESENTATION.pdf) [Project Report](https://github.com/sweta4340/Speech_Emotion_Detection/blob/main/Group15_Final_term_paper.pdf)
 
-### 4. Avoiding Covid 19 with facemask and social distancing detection
+### 4. Airbnb data analysis and fare prediction
 
-### 5. Airbnb data analysis and fare prediction
-
-### 6. NBA match winning prediction
+### 5. NBA match winning prediction
 **Code**: [NBA Lineup Prediction](https://github.com/sweta4340/NBA-Lineup-Prediction)
 
 **Description**: This project aims to predict NBA game outcomes and recommend the best lineup for an away team to maximize winning chances. The study utilizes data from the 2007-2012 NBA seasons, involving extensive feature engineering, embeddings, and machine learning models to enhance predictive accuracy.  
