@@ -113,6 +113,37 @@ My portfolio includes a variety of data science and data analysis projects that 
 ### 5. Airbnb data analysis and fare prediction
 
 ### 6. NBA match winning prediction
+**Code**: [NBA Lineup Prediction](https://github.com/sweta4340/NBA-Lineup-Prediction)
+
+**Description**: This project aims to predict NBA game outcomes and recommend the best lineup for an away team to maximize winning chances. The study utilizes data from the 2007-2012 NBA seasons, involving extensive feature engineering, embeddings, and machine learning models to enhance predictive accuracy.  
+
+**Key Features**:  
+- **Two Prediction Problems**:  
+  1. Predict the outcome of an NBA game given the lineups.  
+  2. Identify the best fifth player for the away team to optimize winning probability.  
+- **Dataset Details**:  
+  - 197,718 game states from 2007-2012  
+  - 813 unique players and 31 teams  
+  - Numeric team statistics and a binary outcome variable (-1,1)  
+- **Preprocessing & Feature Engineering**:  
+  - Handled missing values, standardized data, and addressed class imbalance using upsampling  
+  - Implemented four-factor basketball metrics (eFG%, Turnover Rate, Offensive Rebounding %, Free Throw Rate)  
+  - Used label encoding for player representation  
+- **Embeddings for Enhanced Learning**:  
+  - Captures player similarities and improves model interpretability  
+  - Embedding vectors mapped similar player statistics closer in space  
+- **Model Building**:  
+  - Tried multiple classification models: SVM, KNN, Neural Networks, Random Forest, Gradient Boosting  
+  - Utilized supervised learning with a neural network model  
+  - Random Forest emerged as the best-performing model  
+
+**Skills**: Data augmentation, Machine Learning, Supervised Learning, Classification Models (SVM, KNN, Neural Networks, Random Forest), Embeddings
+ 
+**Technology**: Python (Scikit-learn, TensorFlow, Keras), Jupyter Notebook, Google Colab
+
+**Results**: Random Forest achieved the highest accuracy of 79%. Embedding techniques significantly improved model performance. Predicted the best player for an away team lineup with high probability of winning. Demonstrated the effectiveness of four-factor basketball metrics in predictive modeling.
+
+[Presentation](https://github.com/sweta4340/NBA-Lineup-Prediction/blob/main/Data_mining_presentation.pptx.pdf) [Project Report](https://github.com/sweta4340/NBA-Lineup-Prediction/blob/main/Final%20Report_project.pdf)
 
 ---
 
