@@ -127,7 +127,7 @@ My portfolio includes a variety of data science and data analysis projects that 
   - Numeric team statistics and a binary outcome variable (-1,1)  
 - **Preprocessing & Feature Engineering**:  
   - Handled missing values, standardized data, and addressed class imbalance using upsampling  
-  - Implemented four-factor basketball metrics (eFG%, Turnover Rate, Offensive Rebounding %, Free Throw Rate)  
+  - Implemented four-factor basketball metrics (Field Goal Percentage, Turnover Rate, Offensive Rebounding Percentage, Free Throw Rate)  
   - Used label encoding for player representation  
 - **Embeddings for Enhanced Learning**:  
   - Captures player similarities and improves model interpretability  
