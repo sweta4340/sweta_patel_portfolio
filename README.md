@@ -90,6 +90,23 @@ My portfolio includes a variety of data science and data analysis projects that 
 [Data Insights](https://github.com/sweta4340/ENGR_5520G_G5/blob/main/Lender%20Statistics/Data_Insights.ipynb)
 
 ### 3. Generalizing speech emotion detection: Multimodal and multidataset approach
+**Code**: [Speech Emotion Detection](https://github.com/sweta4340/Speech_Emotion_Detection)
+
+**Description**: A data-driven system for analyzing emotions from speech, leveraging AI to recognize and categorize emotions like happiness, disgust, sadness, surprise, and neutrality from audio data. This project focuses on building a robust system that captures the variability in speech data caused by speaker diversity, environmental conditions, and audio quality, aiming to improve the generalization and reliability of emotion detection models.
+
+**Key Features**:  
+- **Multimodal Approach**: Combines diverse speech emotion datasets and applies a multimodal approach for better generalization.
+- **Data Augmentation**: Utilizes data augmentation techniques to enhance model robustness by increasing training dataset variability.
+- **Feature Extraction**: Extracts key audio features (MFCC, chroma, spectral contrast) to represent emotions effectively.
+- **Ensemble Learning**: Applies ensemble learning techniques, specifically combining SVM and RF, to achieve high accuracy in emotion classification.
+
+**Skills**: Speech emotion recognition, Data augmentation, Feature extraction, Machine learning model comparison, Model evaluation   
+ 
+**Technology**: Support Vector Machine (SVM), Random Forest (RF), Neural networks, Ensemble learning, Python (Scikit-learn, TensorFlow, Keras), Audio Processing (Librosa, PyAudio)
+
+**Results**: Developed a high-performing system that detects emotions in speech with an accuracy of **81%** using ensemble learning of SVM and RF models. The model demonstrated improved generalization capabilities across different datasets and contexts. The solution offers a reliable, data-driven approach for emotional analysis, enhancing the ability to recognize emotional cues in diverse real-world scenarios.
+
+[Presentation](https://github.com/sweta4340/Speech_Emotion_Detection/blob/main/group15_SWE_PRESENTATION.pdf) [Project Report](https://github.com/sweta4340/Speech_Emotion_Detection/blob/main/Group15_Final_term_paper.pdf)
 
 ### 4. Avoiding Covid 19 with facemask and social distancing detection
 
