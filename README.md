@@ -109,6 +109,26 @@ My portfolio includes a variety of data science and data analysis projects that 
 [Presentation](https://github.com/sweta4340/Speech_Emotion_Detection/blob/main/group15_SWE_PRESENTATION.pdf) [Project Report](https://github.com/sweta4340/Speech_Emotion_Detection/blob/main/Group15_Final_term_paper.pdf)
 
 ### 4. Airbnb data analysis and fare prediction
+**Code**: [Airbnb Data Analytics](https://github.com/sweta4340/Airbnb_data_analytics)
+
+**Description**: This project aims to analyze Airbnb listings in Toronto to determine the key factors affecting pricing. It leverages data analytics and machine learning techniques, including regression analysis and sentiment analysis, to provide actionable insights for Airbnb hosts.
+
+**Key Features**:  
+- **Price Prediction Model:** Uses Linear Regression and Random Forest to predict optimal listing prices.
+- **Sentiment Analysis:** Evaluates customer reviews to extract emotions and identify key factors influencing guest satisfaction.
+- **Feature Engineering:** Creates meaningful features from existing dataset attributes to improve model performance.
+- **Data Cleaning & Preprocessing:** Handles missing values, outliers, and unimportant variables for accurate analysis.
+- **Exploratory Data Analysis (EDA):** Provides insights into property types, amenities, and host performance.
+- **Clustering Analysis:** Groups listings based on geographical locations using KNN clustering.
+- **Feature Importance Analysis:** Determines the most significant factors affecting pricing using Random Forest.
+
+**Skills**: Data Cleaning & Preprocessing, Exploratory Data Analysis (EDA), Feature Engineering & Selection, Sentiment Analysis & NLP, Machine Learning Model Development, Data Visualization & Dashboarding, Statistical Analysis, Clustering & Predictive Modeling
+ 
+**Technology**: R, ggplot2, dplyr, tidyr, caret, Linear Regression, Random Forest, Sentiment Analysis
+
+**Results**: Certain **property features and amenities** significantly impact pricing. **Host behavior metrics** (e.g., response rate, acceptance rate) influence customer satisfaction. **Sentiment analysis** helps assess the **emotional tone** of customer reviews, providing insights for hosts to improve their services. The model provides an estimated **price proposal** for new listings.
+
+[Presentation](https://github.com/sweta4340/Airbnb_data_analytics/blob/main/Business%20Analytics%20Final%20Presentation.pdf)
 
 ### 5. NBA match winning prediction
 **Code**: [NBA Lineup Prediction](https://github.com/sweta4340/NBA-Lineup-Prediction)
