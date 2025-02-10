@@ -15,7 +15,7 @@ My journey with data began in college, where I was studying **databases and adva
 
 ## **🎓 Education**
 
-- Bachelor's in Engineering, Computer Science, July 2017 - May 2021
+- *Bachelor's in Engineering, Computer Science, July 2017 - May 2021*
   - Relavant Coursework: Object oriented programming, Data Structures & Algorithms, Database Management Systems, Advanced Database Technologies
 
 - *Ontario Tech University, Engineering Management, September 2023 - Decemeber 2024*
