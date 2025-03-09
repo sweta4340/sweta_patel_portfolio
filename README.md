@@ -26,7 +26,7 @@ My journey with data began in college, where I was studying **databases and adva
 ## **🔹 My Professional Journey:**
 I have **2 years of professional experience** with **L&T Technology Services**, contributing to **data driven projects** in the field of **Medical Data as a Service**. My role was focused on developing scalable data solutions to improve healthcare systems' efficiency, integration, and decision-making.
 
-## 🚀 Key Contributions  
+**🚀 Key Contributions** 
 
 **✅ ETL & Data Pipelines**  
 - Engineered **Python-based ETL pipelines** to process **500,000+ healthcare records**, automating data flow into **SQL & NoSQL databases**, enhancing **data accessibility & processing efficiency**.
