@@ -26,13 +26,31 @@ My journey with data began in college, where I was studying **databases and adva
 ## **🔹 My Professional Journey:**
 I have **2 years of professional experience** with **L&T Technology Services**, contributing to **data driven projects** in the field of **Medical Data as a Service**. My role was focused on developing scalable data solutions to improve healthcare systems' efficiency, integration, and decision-making.
 
-## Key Contributions
-✅ **ETL & Data Pipelines:** Engineered robust ETL pipelines to ingest and transform healthcare data into **FHIR (Fast Healthcare Interoperable Resources)** using **HAPI-FHIR**.  
-✅ **Data Automation & Integration:** Automated seamless **data exchange and transformation** using **Mirth Connect**, ensuring smooth interoperability across systems.  
-✅ **Cloud & DevOps:** Deployed **containerized data ingestion frameworks** using **Docker** and orchestrated **Kubernetes** deployments for scalability.  
-✅ **API Development:** Designed **RESTful APIS** with **Swagger UI** and published APIs to a **marketplace via WSO2**, enabling scalable and efficient **healthcare solutions**.  
-✅ **Data Visualization & Insights:** Developed a **Power BI dashboard** that transformed complex medical data into **actionable insights** for better decision-making.  
+## 🚀 Key Contributions  
 
+**✅ ETL & Data Pipelines**  
+- Engineered **Python-based ETL pipelines** to process **500,000+ healthcare records**, automating data flow into **SQL & NoSQL databases**, enhancing **data accessibility & processing efficiency**.
+  
+**✅ Data Automation & Integration**  
+- Automated **data exchange & transformation** with **Mirth Connect**, ensuring seamless **interoperability** across healthcare systems.
+  
+**✅ Cloud & Big Data Processing**  
+- Deployed **Azure Databricks** for **big data processing** using **PySpark & SparkSQL**.  
+- Optimized **ETL workflows** with **Delta Lake**, reducing processing time by **40%**.
+
+**✅ Database Optimization**  
+- Optimized **SQL queries** for **data extraction, transformation, & reporting**, cutting query execution time by **30%**.
+  
+**✅ API Development**  
+- Designed **RESTful APIs** with **Swagger UI** & published to a **marketplace via WSO2**, enabling scalable **healthcare solutions**.
+   
+**✅ Containerization & DevOps**  
+- Deployed **containerized data ingestion frameworks** using **Docker** & orchestrated **Kubernetes** deployments for scalability.
+   
+**✅ Data Visualization & Insights**  
+- Developed **KPI-driven Power BI dashboards** with **10+ KPIs**, leveraging **Power Query & DAX**, improving **reporting speed by 20%**.  
+- Utilized **advanced Excel (Pivot Tables, Power Query, INDEX-MATCH, XLOOKUP)** for efficient data transformation & reporting.  
+ 
 ---
 
 ### **🛠 Technical Expertise:**
