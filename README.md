@@ -7,9 +7,9 @@
 **📧 Email:** sweta.patel4340@gmail.com  
 **🔗 LinkedIn:** [Sweta Patel](https://www.linkedin.com/in/sweta-patel-95091322a/)  
 
-👋 Hello, I'm Sweta Patel, a passionate **Data Engineer** with a strong background in **analytics, software engineering, and project management**. 
+👋 Hello, I'm Sweta Patel, a passionate **Data Engineer** with a strong background in **analytics, software engineering, and cloud solutions**. 
 
-My journey with data began in college, where I was studying **databases and advanced database technologies**. I became deeply interested in how data flows through systems, how it can be structured and optimized for efficiency, and its transformative impact on decision-making. I was constantly engaging myself to **emerging trends, data patterns, and latest technologies**. I also experimented through **small projects**, refining my skills and discovering innovative ways to extract value from data. For me, data is more than just numbers—it’s a powerful asset that, when harnessed effectively, can **drive business innovation, predict trends, and unlock hidden opportunities**.
+My journey with data began in college while studying databases and advanced database technologies. I was fascinated by how data moves through systems, how it can be structured for efficiency, and its ability to drive smart decision-making. I constantly explored emerging trends, analyzed patterns, and kept up with the latest technologies. Through hands-on projects, I refined my skills and discovered creative ways to extract value from data. To me, data is more than just numbers—it’s a powerful asset that can fuel innovation, predict trends, and uncover hidden opportunities when used effectively.
 
 ---
 
