@@ -2,7 +2,7 @@
 
 ## **💡 About Me**
 
-**📍 Based:** Whitby, ON  
+**📍 Based:** Toronto, ON  
 **🎯 Seeking:** Full-time Opportunities in **Data Engineering | Data Analytics**  
 **📧 Email:** sweta.patel4340@gmail.com  
 **🔗 LinkedIn:** [Sweta Patel](https://www.linkedin.com/in/sweta-patel-95091322a/)  
