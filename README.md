@@ -7,9 +7,14 @@
 **📧 Email:** sweta.patel4340@gmail.com  
 **🔗 LinkedIn:** [Sweta Patel](https://www.linkedin.com/in/sweta-patel-95091322a/)  
 
-👋 Hello, I'm Sweta Patel, a passionate **Data Engineer** with a strong background in **analytics, software engineering, and cloud solutions**. 
+👋 Hello, I'm Sweta Patel, a passionate data engineer with expertise in analytics, software engineering, and project management.
 
-My journey with data began in college while studying databases and advanced database technologies. I was fascinated by how data moves through systems, how it can be structured for efficiency, and its ability to drive smart decision-making. I constantly explored emerging trends, analyzed patterns, and kept up with the latest technologies. Through hands-on projects, I refined my skills and discovered creative ways to extract value from data. To me, data is more than just numbers—it’s a powerful asset that can fuel innovation, predict trends, and uncover hidden opportunities when used effectively.
+My love for data started back in college when I first discovered how databases store, manage, and transform raw information into meaningful insights. I was fascinated by how data isn’t just numbers—it tells stories and drives decisions. That curiosity stuck with me, pushing me to explore deeper and build data-driven solutions that actually make an impact.
+
+🎓 With over 2.5 years of experience across both the healthcare and banking sectors, I’ve designed and optimized ETL pipelines, built data migration frameworks, and implemented cloud-native architectures that improve performance, reliability, and compliance.
+Currently at EY Technology Solutions, I work on large-scale data migration and transformation projects for one of Canada’s top banks, where I’ve helped streamline workflows and reduce processing time by over 30%. Before this, I led healthcare data initiatives at L&T Technology Services, building Python-based ETL pipelines and Power BI dashboards that enabled clinical teams to make faster, data-driven decisions.
+
+🚀 I believe data isn’t just numbers—it’s the key to smarter decision-making, optimized processes, and groundbreaking innovations. I’m always eager to connect with fellow data enthusiasts, engineers, and visionaries to exchange ideas, collaborate, and push the boundaries of data-driven transformation.
 
 ---
 
@@ -23,34 +28,28 @@ My journey with data began in college while studying databases and advanced data
 
 ---
 
-## **🔹 My Professional Journey:**
-I have **2 years of professional experience** with **L&T Technology Services**, contributing to **data driven projects** in the field of **Medical Data as a Service**. My role was focused on developing scalable data solutions to improve healthcare systems' efficiency, integration, and decision-making.
+## **🔹 My Professional Journey**
 
-**🚀 Key Contributions** 
+### **Data Engineer, EY Technology Solutions, Toronto, Canada**
+*(October 2023 – Present)*  
 
-**✅ ETL & Data Pipelines**  
-- Engineered **Python-based ETL pipelines** to process **500,000+ healthcare records**, automating data flow into **SQL & NoSQL databases**, enhancing **data accessibility & processing efficiency**.
-  
-**✅ Data Automation & Integration**  
-- Automated **data exchange & transformation** with **Mirth Connect**, ensuring seamless **interoperability** across healthcare systems.
-  
-**✅ Cloud & Big Data Processing**  
-- Deployed **Azure Databricks** for **big data processing** using **PySpark & SparkSQL**.  
-- Optimized **ETL workflows** with **Delta Lake**, reducing processing time by **40%**.
+- Designed and executed **15+ ETL workflows** using **Azure Data Factory** and **SQL** for a **data migration project** with one of Canada’s top banks, processing **2.5M+ records** while ensuring **accuracy, reliability, and compliance** with financial data standards.  
+- Optimized ETL pipelines by implementing **parallel processing** and **incremental data loads**, reducing daily runtime by **30%** and lowering resource consumption while ensuring **100% data integrity**.  
+- Implemented **data backup and archival strategies** using **Azure Storage Accounts** and **AWS S3 buckets**, ensuring **secure, scalable, and cost-effective long-term retention** across multi-cloud environments.  
+- Implemented **data versioning** in SQL databases to maintain historical records, enabling **audit tracking and integrity preservation**.  
+- Designed and implemented a **Change Data Capture (CDC) solution** using **hashing mechanisms, timestamp comparison, and merge operations**, enabling **efficient detection of data changes** and reducing processing overhead in large-scale pipelines.  
 
-**✅ Database Optimization**  
-- Optimized **SQL queries** for **data extraction, transformation, & reporting**, cutting query execution time by **30%**.
-  
-**✅ API Development**  
-- Designed **RESTful APIs** with **Swagger UI** & published to a **marketplace via WSO2**, enabling scalable **healthcare solutions**.
-   
-**✅ Containerization & DevOps**  
-- Deployed **containerized data ingestion frameworks** using **Docker** & orchestrated **Kubernetes** deployments for scalability.
-   
-**✅ Data Visualization & Insights**  
-- Developed **KPI-driven Power BI dashboards** with **10+ KPIs**, leveraging **Power Query & DAX**, improving **reporting speed by 20%**.  
-- Utilized **advanced Excel (Pivot Tables, Power Query, INDEX-MATCH, XLOOKUP)** for efficient data transformation & reporting.  
- 
+---
+
+### **Data Engineer, L&T Technology Services, Karnataka, India**
+*(August 2021 – July 2023)*  
+
+- Designed and implemented **Python-based ETL pipelines** using **Azure Data Factory** to process **500K+ healthcare records**, automating ingestion into SQL databases, significantly improving **data accessibility**.  
+- Optimized **big data workflows** using **Azure Databricks** and **Delta Lake**, incorporating **incremental data processing**, resulting in a **40% reduction in ETL processing times**.  
+- Improved query performance by **tuning complex SQL & SparkSQL transformations**, achieving a **30% decrease in execution time** and **faster reporting** for clinical/operational teams.  
+- Designed and implemented **10+ RESTful APIs** for managing patient information, leveraging **Swagger for documentation** and ensuring seamless integration.  
+- Developed a **Power BI dashboard** integrating data from RESTful APIs, providing **actionable insights** and **data-driven decision-making** support in healthcare.  
+
 ---
 
 ### **🛠 Technical Expertise:**
