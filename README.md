@@ -33,12 +33,13 @@ Currently at EY Technology Solutions, I work on large-scale data migration and t
 ### **Data Engineer, EY Technology Solutions, Toronto, Canada**
 *(October 2023 – Present)*  
 
-- Designed and executed **10+ ETL workflows** using **Azure Data Factory** and **SQL** for a **data migration project** with one of Canada’s top banks, processing **2.5M+ records** while ensuring **accuracy, reliability, and compliance** with financial data standards.  
-- Optimized ETL pipelines by implementing **parallel processing** and **incremental data loads**, reducing daily runtime by **30%** and lowering resource consumption while ensuring **100% data integrity**.  
-- Implemented **data backup and archival strategies** using **Azure Storage Accounts** and **AWS S3 buckets**, ensuring **secure, scalable, and cost-effective long-term retention** across multi-cloud environments.  
-- Implemented **data versioning** in SQL databases to maintain historical records, enabling **audit tracking and integrity preservation**.  
-- Designed and implemented a **Change Data Capture (CDC) solution** using **hashing mechanisms, timestamp comparison, and merge operations**, enabling **efficient detection of data changes** and reducing processing overhead in large-scale pipelines.  
-
+- Designed and executed **10+ ETL workflows** using **Azure Data Factory** and **SQL** for a **major Canadian bank**, processing **over 2.5 million records** with **99.9% data accuracy** and ensuring **compliance with financial data standards**.  
+- Optimized ETL pipelines by implementing **parallel processing** and **incremental data loads**, reducing **runtime by 30%** and lowering **resource consumption** while ensuring **100% data integrity**.  
+- Implemented **data backup and archival strategies** using **Azure Storage** and **AWS S3**, achieving **20% cost savings** in **long-term storage** and ensuring **secure, scalable retention** across **multi-cloud environments**.  
+- Established **SQL-based data versioning**, enabling **historical tracking** and supporting **audit compliance** with **zero data loss incidents**.  
+- Constructed a **Change Data Capture (CDC) solution** using **hashing mechanisms**, **timestamp comparison**, and **merge operations**, improving **data change detection efficiency** and reducing **processing overhead** in **large-scale ETL pipelines**.  
+- Engineered **error-handling and logging frameworks** using **SQL cursor operations**, reducing **manual debugging time by ~20%** and enabling **faster issue resolution** during **ETL transformations**.  
+- Collaborated with **business stakeholders** to gather requirements, analyze data needs, and design **scalable ETL and data integration solutions** aligned with **strategic project goals**.  
 ---
 
 ### **Data Engineer, L&T Technology Services, Karnataka, India**
