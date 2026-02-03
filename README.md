@@ -31,7 +31,7 @@ Currently at EY Technology Solutions, I work on large-scale data migration and t
 ## **🔹 My Professional Journey**
 
 ### **Data Engineer, EY Technology Solutions, Toronto, Canada**
-*(October 2023 – Present)*  
+*(April 2025 – November 2025)*  
 
 - Designed and executed **10+ ETL workflows** using **Azure Data Factory** and **SQL** for a **major Canadian bank**, processing **over 2.5 million records** with **99.9% data accuracy** and ensuring **compliance with financial data standards**.  
 - Optimized ETL pipelines by implementing **parallel processing** and **incremental data loads**, reducing **runtime by 30%** and lowering **resource consumption** while ensuring **100% data integrity**.  
